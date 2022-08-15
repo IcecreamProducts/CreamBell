@@ -1,2 +1,3 @@
-hello this is the first file
-i have some text in it.
+hello this is the firsit file
+i have some text
+i have insterted new line
